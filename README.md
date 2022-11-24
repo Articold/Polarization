@@ -1,4 +1,4 @@
-# Polarization
+# coherence
 XZC's first research project
 
 
