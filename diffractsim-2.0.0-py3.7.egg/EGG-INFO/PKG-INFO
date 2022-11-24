@@ -1,0 +1,27 @@
+Metadata-Version: 2.1
+Name: diffractsim
+Version: 2.0.0
+Summary: A diffraction simulator for exploring and visualizing physical optics
+Home-page: https://github.com/rafael-fuente/Diffraction-Simulations--Angular-Spectrum-Method
+Download-URL: https://github.com/rafael-fuente/Diffraction-Simulations--Angular-Spectrum-Method/archive/main.zip
+Author: Rafael de la Fuente
+Author-email: rafael.fuente.herrezuelo@gmail.com
+License: BSD-3-Clause
+Keywords: diffraction,angular spectrum method,optics,physics simulation
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Science/Research
+Classifier: Topic :: Scientific/Engineering
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+
+# Diffractsim: A diffraction simulator for exploring and visualizing physical optics
+Implementation of the angular spectrum method as well as other light propagation methods in Python to simulate diffraction patterns with arbitrary apertures. You can use it for simulating both monochromatic and polychromatic light also with arbitrary spectrums.
+
+How the method and the simulator works is described in this [Article](https://rafael-fuente.github.io/simulating-diffraction-patterns-with-the-angular-spectrum-method-and-python.html). Take a look to the [video](https://youtu.be/Ft8CMEooBAE) to see the animated simulations!
+
+
